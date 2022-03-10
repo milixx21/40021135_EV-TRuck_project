@@ -2,7 +2,8 @@
 ## TWO MODEL COMPARISON
 |VOLVO FE|MACK LR|
 |------|----|
-|![image](https://user-images.githubusercontent.com/94118694/152676967-9c71ac67-f17b-4637-a448-70d8a93ec77d.png)|![image](https://user-images.githubusercontent.com/94118694/152676623-d3dc69a3-1e21-497a-a77d-d6c5ccf5a92f.png)|
+![Volvo-VNR-cutaway-batteries-640x362](https://user-images.githubusercontent.com/94521102/157688853-b9ab7537-f746-4d88-99d1-fd11597efb33.jpg)
+|![image](https://user-images.githubusercontent.com/94118694/152676623-d3dc69a3-1e21-497a-a77d-d6c5ccf5a92f.png)|
 
 SPECIFICATIONS   |      Volvo Fe      |    Mack LR 
 ---------|------------------|----------------
